@@ -15,5 +15,5 @@ year = {2024},
 issn = {0924-2716},
 doi = {https://doi.org/10.1016/j.isprsjprs.2024.10.026},
 url = {https://www.sciencedirect.com/science/article/pii/S0924271624004039},
-author = {Jun Pan and Jiangong Xu and Xiaoyu Yu and Guo Ye and Mi Wang and Yumin Chen and Jianshen Ma},
+author = {Jun Pan and Jiangong Xu and Xiaoyu Yu and Guo Ye and Mi Wang and Yumin Chen and Jianshen Ma}
 ```
